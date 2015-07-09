@@ -1,0 +1,34 @@
+{
+  "name": "bloggify-emoji",
+  "version": "1.0.0",
+  "description": "Emoji plugin for Bloggify.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Bloggify/emoji.git"
+  },
+  "keywords": [
+    "emoji",
+    "bloggify"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/Bloggify/emoji/issues"
+  },
+  "homepage": "https://github.com/Bloggify/emoji",
+  "dependencies": {
+    "emoji-parser": "^0.1.1"
+  },
+  "blah": {
+    "configuration": {
+      "name": "emoji",
+      "source": "git@github.com:Bloggify/emoji.git",
+      "version": "master"
+    }
+  },
+  "devDependencies": {}
+}
