@@ -21,15 +21,9 @@
   },
   "homepage": "https://github.com/Bloggify/emoji",
   "dependencies": {
-    "emoji-parser": "^0.1.1",
     "showdown-emoji": "^1.0.0"
   },
   "blah": {
-    "configuration": {
-      "name": "emoji",
-      "source": "git@github.com:Bloggify/emoji.git",
-      "version": "master"
-    }
   },
   "devDependencies": {}
 }
