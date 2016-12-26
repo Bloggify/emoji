@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/Bloggify/emoji",
   "dependencies": {
-    "emoji-parser": "^0.1.1"
+    "emoji-parser": "^0.1.1",
+    "showdown-emoji": "^1.0.0"
   },
   "blah": {
     "configuration": {
