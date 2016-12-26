@@ -1,6 +1,6 @@
 {
   "name": "bloggify-emoji",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Emoji plugin for Bloggify.",
   "main": "lib/index.js",
   "scripts": {
@@ -14,8 +14,8 @@
     "emoji",
     "bloggify"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com>",
-  "license": "KINDLY",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Bloggify/emoji/issues"
   },
@@ -24,5 +24,19 @@
     "showdown-emoji": "^1.0.0"
   },
   "blah": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "files": [
+    "bin/",
+    "app/",
+    "public/",
+    "lib/",
+    "build/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "cli.js",
+    "index.js"
+  ]
 }
