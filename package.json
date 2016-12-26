@@ -1,6 +1,6 @@
 {
   "name": "bloggify-emoji",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Emoji plugin for Bloggify.",
   "main": "lib/index.js",
   "scripts": {
@@ -23,7 +23,6 @@
   "dependencies": {
     "showdown-emoji": "^1.0.0"
   },
-  "blah": {
-  },
+  "blah": {},
   "devDependencies": {}
 }
