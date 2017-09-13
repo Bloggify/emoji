@@ -35,11 +35,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
-  ],
-  "bloggify": {
-    "styles": [
-      "lib/style.css"
-    ]
-  }
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ]
 }
